@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Environment variables and secrets
+.env
+
+# Python package metadata generated during installation/build
+*.egg-info/
+
+# Python bytecode cache files
+__pycache__/
+
+# Local files 
+memory/
+aws/
+*.zip

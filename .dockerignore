@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# GitHub Actions
+.github
+
+# Environment secrets
+.env
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+
+# Virtual environment
+venv
+
+# Local files
+memory
+*.db

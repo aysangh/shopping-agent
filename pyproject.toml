@@ -1,0 +1,19 @@
+[project]
+name = "shopping-agent"
+version = "0.1.0"
+description = "Digikala shopping agent using OpenAI Agents SDK and MCP"
+requires-python = ">=3.10"
+
+dependencies = [
+    "openai-agents",
+    "python-dotenv",
+    "streamlit",
+    "httpx",
+    "pydantic",
+    "fastmcp",
+    "mem0ai",
+]
+
+[tool.setuptools]
+packages = ["agent", "ui", "digikala_mcp"]
+
