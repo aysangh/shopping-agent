@@ -48,7 +48,7 @@ digikala_mcp/
 
 The server was validated using **MCP Inspector**, which provides an interactive interface for inspecting available tools, invoking tool calls, and verifying structured MCP responses.
 
-<img width="1920" height="945" alt="mcp" src="https://github.com/user-attachments/assets/134758b9-916c-4557-9be4-f0b00e1f156e" />
+<img width="1920" height="945" alt="mcp" src="https://github.com/user-attachments/assets/5ad22efa-afa0-4980-8e32-62896673389d" />
 
 ---
 
